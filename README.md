@@ -1,4 +1,4 @@
-<p align="center"><a href="https://docs.kalico.gg"><img align="center" src="docs/logo/kalico-big.png" alt="Kalico Logo"></a></p>
+<p align="center"><a href="https://docs.kalico.gg"><img align="center" src="docs/src/logo/kalico-big.png" alt="Kalico Logo"></a></p>
 
 [![Action Status](https://github.com/KalicoCrew/kalico/actions/workflows/ci-build_test.yaml/badge.svg?branch=main)](https://github.com/KalicoCrew/kalico/actions/workflows/ci-build_test.yaml)
 

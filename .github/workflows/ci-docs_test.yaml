@@ -23,4 +23,5 @@ jobs:
         run: uv python install
 
       - name: Build MkDocs Pages
+        working-directory: docs/
         run: uv run mkdocs build -f _kalico/mkdocs.yml --strict

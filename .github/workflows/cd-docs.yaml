@@ -28,7 +28,7 @@ jobs:
 
       - name: Build MkDocs Pages
         working-directory: docs/ 
-        run: uv run mkdocs build -f _kalico/mkdocs.yml
+        run: uv run mkdocs build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.4.3

@@ -24,4 +24,4 @@ jobs:
 
       - name: Build MkDocs Pages
         working-directory: docs/
-        run: uv run mkdocs build -f _kalico/mkdocs.yml --strict
+        run: uv run mkdocs build --strict

@@ -49,6 +49,5 @@ dev = [
   ]
 
 [tool.pytest.ini_options]
-testpaths = [
-  'test',
-]
+pythonpath = ["."]
+testpaths = ["test"]
